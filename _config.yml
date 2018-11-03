@@ -1,1 +1,7 @@
 theme: jekyll-theme-dinky
+title: Peter Solfest's Blog
+author: Peter Solfest
+email: pmsolfest@gmail.com
+description: Mathematician software developer currently with an unhealthy interest in build tools.
+github_username: solter
+show_excerpts: true

@@ -2,6 +2,8 @@
 layout: default
 title: Home
 ---
+:construction:This site is under heavy construction. Please come back later:construction:
+
 # Hello World
 Welcome to Peter Solfest's website.
 

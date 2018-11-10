@@ -5,3 +5,5 @@ email: pmsolfest@gmail.com
 description: Random tip, tricks and thoughts on software development and the wider world
 github_username: solter
 show_excerpts: true
+plugins:
+  - jemoji
